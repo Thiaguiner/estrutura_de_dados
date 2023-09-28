@@ -61,7 +61,7 @@ public class AgendaContatosGUI extends Application {
         botoes.setPadding(new Insets(10, 10, 10, 10));
         botoes.getChildren().addAll(listarContatosButton);
 
-        // Adiciona os componentes ao layout principal
+        // Adiciona os componentes ao layout principall
         layout.setLeft(entradaDados);
         layout.setCenter(listaContatosTextArea);
         layout.setRight(botoes);
